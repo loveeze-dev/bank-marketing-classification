@@ -153,8 +153,11 @@ bank_marketing/
 ## How to Run
 
 git clone https://github.com/yourusername/bank-marketing-classification.git
+
 cd bank-marketing-classification
+
 pip install -r requirements.txt
+
 jupyter notebook bank_marketing_analysis.ipynb
 
 ---
